@@ -1,2 +1,3 @@
 SELECT * FROM emp;
 SELECT ENAME,JOB FROM EMP WHERE SAL>2000;
+SQL Structured Query Language.
